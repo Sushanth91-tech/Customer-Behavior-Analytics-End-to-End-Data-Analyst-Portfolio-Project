@@ -8,9 +8,6 @@
 - [Project Workflow](#-project-workflow)
 - [Key Insights](#-key-insights)
 
-
----
-
 ## 📌 Project Overview
 
 This project simulates a real-world, corporate-grade end-to-end data analytics workflow.  
@@ -102,9 +99,3 @@ This project analyzes customer purchasing data to solve these challenges using a
 
 ---
 
-
-
-
----
-
-## 📁 Project Structure
