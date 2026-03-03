@@ -7,11 +7,7 @@
 - [Tech Stack](#-tech-stack)
 - [Project Workflow](#-project-workflow)
 - [Key Insights](#-key-insights)
-- [Dashboard Preview](#-dashboard-preview)
-- [Project Structure](#-project-structure)
-- [How to Run This Project](#-how-to-run-this-project)
-- [Business Recommendations](#-business-recommendations)
-- [Author](#-author)
+
 
 ---
 
